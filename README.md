@@ -1,0 +1,1 @@
+Pattern api project for authentication using firebase and node.js
